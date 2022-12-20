@@ -24,12 +24,14 @@ https://bootstrapstudio.io/
   
   ## Screenshots
   ### Desktop
-![rva-mike github io_app-landing-page-bootstrap_ (1)](https://user-images.githubusercontent.com/105617274/208526598-651e0d92-46da-44d3-975e-ae607d4dc5be.png)
+![_C__Users_press_Desktop_app-landing-page-bootstrap_index html](https://user-images.githubusercontent.com/105617274/208769421-787dcc09-13f6-4cba-ba66-63cf63f2fec5.png)
+
 
 ### Mobile
+![_C__Users_press_Desktop_app-landing-page-bootstrap_index html(iPhone SE)](https://user-images.githubusercontent.com/105617274/208769435-25676cfe-8a58-4b84-967f-f7a438458eba.png)
 
 
-![rva-mike github io_app-landing-page-bootstrap_(iPhone SE)](https://user-images.githubusercontent.com/105617274/208526784-7061ef01-97f0-4ace-8397-b56be8311a93.png)
+
 
 
 
