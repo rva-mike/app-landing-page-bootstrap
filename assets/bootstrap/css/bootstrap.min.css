@@ -13208,3 +13208,11 @@ footer ul li a:active,
 footer ul li a.active {
     text-decoration: none
 }
+
+@media(max-width: 991px) {
+    .navbar-brand {
+        color: #000 !important;
+    }
+
+
+}
