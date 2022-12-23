@@ -24,7 +24,8 @@ https://bootstrapstudio.io/
   
   ## Screenshots
   ### Desktop
-![_C__Users_press_Desktop_app-landing-page-bootstrap_index html](https://user-images.githubusercontent.com/105617274/208769421-787dcc09-13f6-4cba-ba66-63cf63f2fec5.png)
+![_Users_mike_Desktop_app-landing-page-bootstrap_index html](https://user-images.githubusercontent.com/105617274/209392404-bdea5a95-61f9-4cd0-9e89-554bfec68ee8.png)
+
 
 
 ### Mobile
