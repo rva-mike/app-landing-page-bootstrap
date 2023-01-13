@@ -4,6 +4,7 @@
 This is a mock-up/template for an app landing page. This responsive design was made by using Bootstrap 5.2 and Bootstrap Studio.
 
 https://getbootstrap.com/
+
 https://bootstrapstudio.io/
   
   ## Table of Contents
