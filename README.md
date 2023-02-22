@@ -1,7 +1,7 @@
 # app-landing-page-bootstrap
 
   ## Description
-This is a mock-up/template for an app landing page. This responsive design was made by using Bootstrap 5.2 and Bootstrap Studio.
+This is a front-end webpage for an app landing page using Bootstrap. The goal was to design a webpage that promotes the app's features and functionality while providing a seamless user experience on all devices.
 
 https://getbootstrap.com/
 
